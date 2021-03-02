@@ -6,7 +6,11 @@ Se delta = 0 : Imprime "Existe uma raiz real: " (e imprime x1)
 Se delta > 0 : Imprime "Existem duas raizes reais: " (e imprime x1 e x2)
 
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 #include<cmath>
 
